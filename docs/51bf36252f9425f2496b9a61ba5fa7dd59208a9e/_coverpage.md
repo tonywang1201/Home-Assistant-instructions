@@ -2,7 +2,7 @@
 
 ![logo](https://mypic-1303950876.cos.ap-shanghai.myqcloud.com/img/ha-logo.png)
 
-# docsify <small>3.5</small>
+# Home Assistant教程 <small>version1.0</small>
 
 > 一个神奇的文档网站生成器。
 
